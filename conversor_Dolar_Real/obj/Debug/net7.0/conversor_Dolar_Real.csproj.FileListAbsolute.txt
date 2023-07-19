@@ -1,0 +1,15 @@
+C:\Users\Lobatz\Desktop\Exercicios-CSharp\conversor_Dolar_Real\bin\Debug\net7.0\conversor_Dolar_Real.exe
+C:\Users\Lobatz\Desktop\Exercicios-CSharp\conversor_Dolar_Real\bin\Debug\net7.0\conversor_Dolar_Real.deps.json
+C:\Users\Lobatz\Desktop\Exercicios-CSharp\conversor_Dolar_Real\bin\Debug\net7.0\conversor_Dolar_Real.runtimeconfig.json
+C:\Users\Lobatz\Desktop\Exercicios-CSharp\conversor_Dolar_Real\bin\Debug\net7.0\conversor_Dolar_Real.dll
+C:\Users\Lobatz\Desktop\Exercicios-CSharp\conversor_Dolar_Real\bin\Debug\net7.0\conversor_Dolar_Real.pdb
+C:\Users\Lobatz\Desktop\Exercicios-CSharp\conversor_Dolar_Real\obj\Debug\net7.0\conversor_Dolar_Real.csproj.AssemblyReference.cache
+C:\Users\Lobatz\Desktop\Exercicios-CSharp\conversor_Dolar_Real\obj\Debug\net7.0\conversor_Dolar_Real.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lobatz\Desktop\Exercicios-CSharp\conversor_Dolar_Real\obj\Debug\net7.0\conversor_Dolar_Real.AssemblyInfoInputs.cache
+C:\Users\Lobatz\Desktop\Exercicios-CSharp\conversor_Dolar_Real\obj\Debug\net7.0\conversor_Dolar_Real.AssemblyInfo.cs
+C:\Users\Lobatz\Desktop\Exercicios-CSharp\conversor_Dolar_Real\obj\Debug\net7.0\conversor_Dolar_Real.csproj.CoreCompileInputs.cache
+C:\Users\Lobatz\Desktop\Exercicios-CSharp\conversor_Dolar_Real\obj\Debug\net7.0\conversor_Dolar_Real.dll
+C:\Users\Lobatz\Desktop\Exercicios-CSharp\conversor_Dolar_Real\obj\Debug\net7.0\refint\conversor_Dolar_Real.dll
+C:\Users\Lobatz\Desktop\Exercicios-CSharp\conversor_Dolar_Real\obj\Debug\net7.0\conversor_Dolar_Real.pdb
+C:\Users\Lobatz\Desktop\Exercicios-CSharp\conversor_Dolar_Real\obj\Debug\net7.0\conversor_Dolar_Real.genruntimeconfig.cache
+C:\Users\Lobatz\Desktop\Exercicios-CSharp\conversor_Dolar_Real\obj\Debug\net7.0\ref\conversor_Dolar_Real.dll

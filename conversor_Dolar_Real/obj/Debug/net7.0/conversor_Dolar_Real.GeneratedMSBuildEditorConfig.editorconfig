@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = calcula_Estoque
-build_property.ProjectDir = C:\Users\Lobatz\Desktop\Exercicios-CSharp\calcula_Estoque\
+build_property.RootNamespace = conversor_Dolar_Real
+build_property.ProjectDir = C:\Users\Lobatz\Desktop\Exercicios-CSharp\conversor_Dolar_Real\

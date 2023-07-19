@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lobatz\\Desktop\\Exercicios-CSharp\\calcula_Estoque\\calcula_Estoque.csproj": {}
+    "C:\\Users\\Lobatz\\Desktop\\Exercicios-CSharp\\conversor_Dolar_Real\\conversor_Dolar_Real.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lobatz\\Desktop\\Exercicios-CSharp\\calcula_Estoque\\calcula_Estoque.csproj": {
+    "C:\\Users\\Lobatz\\Desktop\\Exercicios-CSharp\\conversor_Dolar_Real\\conversor_Dolar_Real.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lobatz\\Desktop\\Exercicios-CSharp\\calcula_Estoque\\calcula_Estoque.csproj",
-        "projectName": "calcula_Estoque",
-        "projectPath": "C:\\Users\\Lobatz\\Desktop\\Exercicios-CSharp\\calcula_Estoque\\calcula_Estoque.csproj",
+        "projectUniqueName": "C:\\Users\\Lobatz\\Desktop\\Exercicios-CSharp\\conversor_Dolar_Real\\conversor_Dolar_Real.csproj",
+        "projectName": "conversor_Dolar_Real",
+        "projectPath": "C:\\Users\\Lobatz\\Desktop\\Exercicios-CSharp\\conversor_Dolar_Real\\conversor_Dolar_Real.csproj",
         "packagesPath": "C:\\Users\\Lobatz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lobatz\\Desktop\\Exercicios-CSharp\\calcula_Estoque\\obj\\",
+        "outputPath": "C:\\Users\\Lobatz\\Desktop\\Exercicios-CSharp\\conversor_Dolar_Real\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
