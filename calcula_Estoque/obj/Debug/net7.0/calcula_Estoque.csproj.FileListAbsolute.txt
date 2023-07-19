@@ -1,0 +1,15 @@
+C:\Users\Lobatz\Desktop\projetos\C#\Exercicios de treino\Exercícios básicos C#\Exercício 1\calcula_Estoque\bin\Debug\net7.0\calcula_Estoque.exe
+C:\Users\Lobatz\Desktop\projetos\C#\Exercicios de treino\Exercícios básicos C#\Exercício 1\calcula_Estoque\bin\Debug\net7.0\calcula_Estoque.deps.json
+C:\Users\Lobatz\Desktop\projetos\C#\Exercicios de treino\Exercícios básicos C#\Exercício 1\calcula_Estoque\bin\Debug\net7.0\calcula_Estoque.runtimeconfig.json
+C:\Users\Lobatz\Desktop\projetos\C#\Exercicios de treino\Exercícios básicos C#\Exercício 1\calcula_Estoque\bin\Debug\net7.0\calcula_Estoque.dll
+C:\Users\Lobatz\Desktop\projetos\C#\Exercicios de treino\Exercícios básicos C#\Exercício 1\calcula_Estoque\bin\Debug\net7.0\calcula_Estoque.pdb
+C:\Users\Lobatz\Desktop\projetos\C#\Exercicios de treino\Exercícios básicos C#\Exercício 1\calcula_Estoque\obj\Debug\net7.0\calcula_Estoque.csproj.AssemblyReference.cache
+C:\Users\Lobatz\Desktop\projetos\C#\Exercicios de treino\Exercícios básicos C#\Exercício 1\calcula_Estoque\obj\Debug\net7.0\calcula_Estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lobatz\Desktop\projetos\C#\Exercicios de treino\Exercícios básicos C#\Exercício 1\calcula_Estoque\obj\Debug\net7.0\calcula_Estoque.AssemblyInfoInputs.cache
+C:\Users\Lobatz\Desktop\projetos\C#\Exercicios de treino\Exercícios básicos C#\Exercício 1\calcula_Estoque\obj\Debug\net7.0\calcula_Estoque.AssemblyInfo.cs
+C:\Users\Lobatz\Desktop\projetos\C#\Exercicios de treino\Exercícios básicos C#\Exercício 1\calcula_Estoque\obj\Debug\net7.0\calcula_Estoque.csproj.CoreCompileInputs.cache
+C:\Users\Lobatz\Desktop\projetos\C#\Exercicios de treino\Exercícios básicos C#\Exercício 1\calcula_Estoque\obj\Debug\net7.0\calcula_Estoque.dll
+C:\Users\Lobatz\Desktop\projetos\C#\Exercicios de treino\Exercícios básicos C#\Exercício 1\calcula_Estoque\obj\Debug\net7.0\refint\calcula_Estoque.dll
+C:\Users\Lobatz\Desktop\projetos\C#\Exercicios de treino\Exercícios básicos C#\Exercício 1\calcula_Estoque\obj\Debug\net7.0\calcula_Estoque.pdb
+C:\Users\Lobatz\Desktop\projetos\C#\Exercicios de treino\Exercícios básicos C#\Exercício 1\calcula_Estoque\obj\Debug\net7.0\calcula_Estoque.genruntimeconfig.cache
+C:\Users\Lobatz\Desktop\projetos\C#\Exercicios de treino\Exercícios básicos C#\Exercício 1\calcula_Estoque\obj\Debug\net7.0\ref\calcula_Estoque.dll
