@@ -16,7 +16,7 @@ class calcula_Estoque
         Console.Write("\nDigite o maximo do estoque: ");
         maximo = Convert.ToDouble(Console.ReadLine());
 
-        //Saida para o usuário
+        //Saida para o usuário 
         Console.WriteLine("------------------------\n");
         Console.WriteLine($"\nMédia do estoque:{(minimo + maximo) / 2}");
 
