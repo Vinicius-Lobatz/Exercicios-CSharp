@@ -11,7 +11,7 @@ class calcula_Estoque
         Console.WriteLine("------------------------\n");
 
         //Recebendo os parametros do usuário
-        Console.Write("\nDigite o minimo do estoque: ");
+        Console.Write("\nDigite o minimo do estoque: "); 
         minimo = Convert.ToDouble(Console.ReadLine());
         Console.Write("\nDigite o maximo do estoque: ");
         maximo = Convert.ToDouble(Console.ReadLine());
