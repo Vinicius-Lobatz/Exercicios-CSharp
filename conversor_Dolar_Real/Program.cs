@@ -12,19 +12,19 @@ class conversor_Dolar_Real
         Console.WriteLine("------------------------\n");
         Console.WriteLine("\nInstrução: utilize virgula ao invés de ponto para declarar o valor");
 
-        //Recebendo a cotação do dolár
+        //Recebendo a cotação do dolár 
         Console.Write("\nPor favor insira a cotação atual do dólar:");
         cotDolar = Convert.ToDouble(Console.ReadLine());
 
         //Recebendo o valor em dolár
         Console.Write("\nAgora insira o valor em dólar:");
-        dolar = Convert.ToDouble(Console.ReadLine());
+        dolar = Convert.ToDouble(Console.ReadLine()); 
 
-        //Apresentando o valor em real
+        //Apresentando o valor em real 
         Console.WriteLine("\n------------------------");
         Console.WriteLine($"\nO valor convertido de dólar para real é R$ {dolar * cotDolar}");
 
-        //Esperando o usuário finalizar a aplicação
+        //Esperando o usuário finalizar a  aplicação
         Console.WriteLine($"\nPressione qualquer tecla para fechar a solução");
         Console.ReadLine();
 
